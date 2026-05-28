@@ -1,0 +1,105 @@
+# Timeless — Generative Engine Optimization Map
+
+> A small, home-operated resale shop focused on buying and reselling items. The business has a personal, independent feel typical of home-based retail ventures, likely emphasizing value, affordability, and a curated selection of secondhand or discounted goods.
+
+---
+
+## Pages
+
+### Home
+https://timeless-d95f2d5e.zappy5.app
+Shop curated pre-loved fashion, vintage collectibles, and unique antiques without breaking the bank. Your next treasure is waiting — explore Timeless today!
+
+### About
+https://timeless-d95f2d5e.zappy5.app/about
+Meet the passionate mind behind Timeless — a home-based resale shop built on love for unique antiques and timeless treasures that bring joy without the hefty price tag.
+
+### Gallery
+https://timeless-d95f2d5e.zappy5.app/gallery
+Flip through our curated gallery of pre-loved fashion, vintage collectibles, and budget friendly gifts for any occasion — every item tells a story worth owning.
+
+### Contact
+https://timeless-d95f2d5e.zappy5.app/contact
+Have a question or spotted something you love? Connect with Timeless today and express yourself without breaking the bank — great deals and personal service await you.
+
+### Products
+https://timeless-d95f2d5e.zappy5.app/products
+Our Products - Timeless
+
+### Cart
+https://timeless-d95f2d5e.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://timeless-d95f2d5e.zappy5.app/checkout
+Checkout
+
+### Login
+https://timeless-d95f2d5e.zappy5.app/login
+Customer Login
+
+### Account
+https://timeless-d95f2d5e.zappy5.app/account
+My Account
+
+### Order Success
+https://timeless-d95f2d5e.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://timeless-d95f2d5e.zappy5.app/product/:slug
+Product Details - Timeless
+
+### Category
+https://timeless-d95f2d5e.zappy5.app/category/:slug
+Products - Timeless
+
+## Legal & Policy
+
+### Privacy Policy
+https://timeless-d95f2d5e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://timeless-d95f2d5e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://timeless-d95f2d5e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Timeless
+A small, home-operated resale shop focused on buying and reselling items. The business has a personal, independent feel typical of home-based retail ventures, likely emphasizing value, affordability, and a curated selection of secondhand or discounted goods.
+
+## Target Audience
+- Vintage Enthusiasts
+- Eco-Conscious Shoppers
+- Bargain Hunters
+- Fashion Recyclers
+- Home Decor Enthusiasts
+- Antique Enthusiast's
+- Collectors
+- Jewelry Recyclers
+
+## Industry
+Retail / Resale
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://timeless-d95f2d5e.zappy5.app/sitemap.xml
+- Robots: https://timeless-d95f2d5e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://timeless-d95f2d5e.zappy5.app/llms-full.txt
+- Products (JSON): https://timeless-d95f2d5e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://timeless-d95f2d5e.zappy5.app/product-feed.xml
