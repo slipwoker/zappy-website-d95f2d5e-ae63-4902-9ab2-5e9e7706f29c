@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://timeless-d95f2d5e.zappy5.app
+https://example.com
 Shop curated pre-loved fashion, vintage collectibles, and unique antiques without breaking the bank. Your next treasure is waiting — explore Timeless today!
 
 ### About
-https://timeless-d95f2d5e.zappy5.app/about
+https://example.com/about
 Meet the passionate mind behind Timeless — a home-based resale shop built on love for unique antiques and timeless treasures that bring joy without the hefty price tag.
 
 ### Gallery
-https://timeless-d95f2d5e.zappy5.app/gallery
+https://example.com/gallery
 Flip through our curated gallery of pre-loved fashion, vintage collectibles, and budget friendly gifts for any occasion — every item tells a story worth owning.
 
 ### Contact
-https://timeless-d95f2d5e.zappy5.app/contact
+https://example.com/contact
 Have a question or spotted something you love? Connect with Timeless today and express yourself without breaking the bank — great deals and personal service await you.
 
 ### Products
-https://timeless-d95f2d5e.zappy5.app/products
+https://example.com/products
 Our Products - Timeless
 
 ### Cart
-https://timeless-d95f2d5e.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://timeless-d95f2d5e.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://timeless-d95f2d5e.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://timeless-d95f2d5e.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://timeless-d95f2d5e.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://timeless-d95f2d5e.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Timeless
 
 ### Category
-https://timeless-d95f2d5e.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Timeless
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://timeless-d95f2d5e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://timeless-d95f2d5e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://timeless-d95f2d5e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Retail / Resale
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://timeless-d95f2d5e.zappy5.app/sitemap.xml
-- Robots: https://timeless-d95f2d5e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://timeless-d95f2d5e.zappy5.app/llms-full.txt
-- Products (JSON): https://timeless-d95f2d5e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://timeless-d95f2d5e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
